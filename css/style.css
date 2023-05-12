@@ -9769,39 +9769,10 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
 
 
-
-
-   /** # Skills--------------------------------------------------------------*/
-.skills .progress {
-  height: 60px;
-  display: block;
-  background: none;
-  border-radius: 0;
+.hide-menu{
+  display: none;
+}
+.hide-menu:hover{
+  display: visible;
 }
 
-.skills .progress .skill {
-  padding: 10px 0;
-  margin: 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color:black;
- 
-}
-
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-
-.skills .progress-bar-wrap {
-  background: rgba(255, 255, 255, 0.2);
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color:#fff;
-}
