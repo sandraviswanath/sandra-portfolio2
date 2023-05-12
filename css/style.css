@@ -9769,10 +9769,3 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
 
 
-.hide-menu{
-  display: none;
-}
-.hide-menu:hover{
-  display: visible;
-}
-
